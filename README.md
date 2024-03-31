@@ -1,4 +1,4 @@
-# Amazon-Prime-Movies-and-TV-Shows
+# Amazon-Prime-Movies-and-TV-Shows (Using POWER-BI)
 ## Project Objective
   This repository contains resources and instructions for analyzing the performance and popularity of content on the Amazon Prime Videos platform using Power BI. The objective is to gain valuable insights into viewer preferences, content trends, and overall platform engagement.
 ## Introduction
