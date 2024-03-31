@@ -20,4 +20,4 @@
   + Made sure data is consistent and clean for data type, format, and values.
   + Analysed data to make charts.
 ## Dashboard
-  ![Dashboard](https://github.com/Utkarsh0211/Store-Annual-Analysis/blob/main/Dashboard.png) 
+  ![Dashboard](https://github.com/Utkarsh0211/Store-Annual-Analysis/blob/main/Dashboard.pn](https://github.com/Utkarsh0211/Amazon-Prime-Movies-and-TV-Shows/blob/main/Amazon%20Prime%20Movies%20and%20TV%20Shows.png) 
